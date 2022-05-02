@@ -1,0 +1,25 @@
+[
+    {
+        "command": "SetScene",
+        "params": {
+            "type": "scene",
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "mesh": "assets/model/umn.obj",
+            "texture": "assets/texture/umn.png",
+            "position": [-1.5,-13,-1.5],
+            "scale": [0.05,0.05,0.05]
+        }
+    },
+    {
+        "command": "AddMesh",
+        "params": {
+            "type": "route",
+            "mesh": "assets/model/routes.obj",
+            "position": [-0.0,-12.5,-0.0],
+            "scale": [0.0705,0.05,0.0705],
+            "color": "0xff00e1"
+        }
+    }
+]

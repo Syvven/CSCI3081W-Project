@@ -1,0 +1,11 @@
+{
+   "type": "robot",
+   "name": "Robot",
+   "mesh": "assets/model/robot.glb",
+   "position": [498.292, 253.883, -228.623],
+   "scale": [0.25, 0.25, 0.25],
+   "direction": [1,0,0],
+   "speed": 30.0,
+   "radius": 1.0,
+   "rotation": [0, 0, 0, 0]
+}
